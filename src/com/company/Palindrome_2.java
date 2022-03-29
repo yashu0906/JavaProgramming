@@ -13,6 +13,7 @@ public class Palindrome_2 {
         return true;
     }
     public static void main(String[] args){
-
+        Palindrome_2 result = new Palindrome_2();
+        System.out.println(result.isPalindrome(121));
     }
 }
